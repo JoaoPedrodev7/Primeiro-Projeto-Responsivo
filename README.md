@@ -16,3 +16,5 @@
 <p>- Media Queries para adaptação em diferentes telas</p>
 
 <h2 align="center">📷 Imagens do Projeto</h2>
+
+<img src="https://github.com/JoaoPedrodev7/Primeiro-Projeto-Responsivo/blob/main/img/Desktop%20e%20Mobile.png?raw=true">
