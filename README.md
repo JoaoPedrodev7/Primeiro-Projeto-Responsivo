@@ -4,7 +4,8 @@
 
 <h2 align="center">📌 Sobre o Projeto</h2>
 <br>
-<p>Este é um projeto desenvolvido para aprimorar minhas habilidades em HTML, CSS e responsividade.
+<p>
+  Este é um projeto desenvolvido para aprimorar minhas habilidades em HTML, CSS e responsividade.
   Ele foi criado com Flexbox e Media Queries para garantir uma experiência agradável em diferentes tamanhos de tela, como celulares e desktops.
 </p>
 
